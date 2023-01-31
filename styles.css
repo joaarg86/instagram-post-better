@@ -1,0 +1,48 @@
+body{
+    background-color: black;
+}
+.post{
+    background-color: white;
+    width: 500px;
+    height: 800px;
+    margin: auto;
+    margin-top: 100px;
+
+}
+.header{
+    display: flex;
+}
+.first-icon{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 30px;
+}
+.second-icon{
+    margin-left: 350px;
+    margin-top: 20px;
+}
+.icons{
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.heart{
+    margin-left: 10px;
+}
+.comment{
+    margin-left: 5px;
+}
+.share{
+    margin-left: 5px;
+}
+.save{
+    margin-left: 400px;
+}
+
+.Liked{
+    margin-left: 10px;
+}
+.description{
+    margin-top:10px;
+    margin-left: 10px;
+}
